@@ -7,4 +7,6 @@ _bookdown_files
 rsconnect
 renv/*
 !renv/activate.R
+.DS_Store
+.Renviron
 
